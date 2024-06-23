@@ -1,2 +1,1 @@
-acryldata/datahub-frontend-react:head
-acryldata/datahub-upgrade:head
+onerahmet/openai-whisper-asr-webservice:latest
