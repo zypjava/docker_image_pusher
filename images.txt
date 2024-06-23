@@ -1,1 +1,4 @@
-onerahmet/openai-whisper-asr-webservice:latest
+acryldata/datahub-kafka-setup:head
+acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-gms:head
+acryldata/datahub-actions:head
