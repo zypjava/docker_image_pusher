@@ -1,5 +1,3 @@
-acryldata/datahub-kafka-setup:0.13.2.4
-acryldata/datahub-elasticsearch-setup:0.13.2.4
-acryldata/datahub-gms:0.13.2.4
-acryldata/datahub-actions:0.13.2.4
-acryldata/datahub-upgrade:0.13.2.4
+acryldata/datahub-gms:v0.13.2.4
+acryldata/datahub-actions:v0.13.2.4
+acryldata/datahub-upgrade:v0.13.2.4
