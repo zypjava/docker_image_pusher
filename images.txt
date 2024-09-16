@@ -1,5 +1,5 @@
 acryldata/datahub-gms:v0.12.1
-acryldata/datahub-actions:v0.12.1
+acryldata/datahub-actions:head
 acryldata/datahub-upgrade:v0.12.1
 acryldata/datahub-frontend-react:v0.12.1
 acryldata/datahub-kafka-setup:v0.12.1
