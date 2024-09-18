@@ -1,7 +1,7 @@
-acryldata/datahub-gms:head
-acryldata/datahub-actions:head
+acryldata/datahub-gms:v0.13.1
+acryldata/datahub-actions:v0.0.15
 acryldata/datahub-upgrade:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-kafka-setup:head
-acryldata/datahub-elasticsearch-setup:head
+acryldata/datahub-frontend-react:v0.13.1
+acryldata/datahub-kafka-setup:v0.13.1
+acryldata/datahub-elasticsearch-setup:v0.13.1
 
