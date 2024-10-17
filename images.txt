@@ -1,4 +1,4 @@
-docker.io/library/python:3.7-slim-buste
+python:3.7-slim-buste
 ghcr.io/labring/fastgpt:latest
 acryldata/datahub-gms:head
 acryldata/datahub-actions:head
