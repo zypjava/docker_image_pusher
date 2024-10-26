@@ -1,5 +1,6 @@
 milvusdb/milvus:v2.3.21
 python:3.7-slim-buster
+python:3.8
 ghcr.io/labring/fastgpt:latest
 acryldata/datahub-gms:head
 acryldata/datahub-actions:head
