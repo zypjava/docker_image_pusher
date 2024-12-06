@@ -1,3 +1,4 @@
+alexxit/go2rtc
 milvusdb/milvus:v2.4.15
 python:3.7-slim-buster
 python:3.8
